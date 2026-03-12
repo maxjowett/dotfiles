@@ -1,0 +1,31 @@
+[env]
+TERM = "xterm-256color"
+
+[window]
+padding.x = 8
+padding.y = 8
+
+option_as_alt = "Both"
+
+[font]
+size = 13.0
+
+[font.normal]
+family = "SF Mono"
+style = "Light"
+
+[font.bold]
+family = "SF Mono"
+style = "Regular"
+
+[font.italic]
+family = "SF Mono"
+style = "Regular Italic"
+
+[font.bold_italic]
+family = "SF Mono"
+style = "Regular Bold"
+
+[colors.primary]
+background = "#ffffff" # Example: Black background
+foreground = "#24292e" # Example: Light gray foreground
