@@ -1,3 +1,13 @@
 # dotfiles
 
-## Buyer beware, there is _a lot_ going on here
+Buyer beware.
+
+Clone and symlink to the respective location.
+
+Example:
+```
+cd dotfiles
+ln -s ~/dotfiles/.zshrc ~/.zshrc
+or
+ln -s ~/dotfiles/alacritty/alacritty.toml ~/.config/alacritty/alacritty.toml
+```
